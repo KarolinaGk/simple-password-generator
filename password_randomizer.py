@@ -10,7 +10,7 @@ ABC = string.ascii_uppercase
 nums = string.digits
 puncs = string.punctuation
 
-x = [*abc,*ABC,*nums,*puncs]
+x = [*abc *2,*ABC *2,*nums *2,*puncs]
 
 p = []
 
